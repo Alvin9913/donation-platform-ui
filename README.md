@@ -1,6 +1,8 @@
 # Surplus Food Donation Platform — Front-end Prototype
 
-A clickable prototype for a small idea: shops publish the food they have left over, and people who need it reserve a pickup. It is one HTML file, no build step and no dependencies. Just double click it:
+A clickable prototype for a small idea: shops publish the food they have left over, and people who need it reserve a pickup. ![Second Table — login screen with role-based routing](docs/preview.png)
+
+It is one HTML file, no build step and no dependencies. Just double click it:
 
 ```
 second-table-ui-prototype v2.html

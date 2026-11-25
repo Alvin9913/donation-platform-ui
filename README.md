@@ -34,3 +34,7 @@ Plain JavaScript, no framework:
 ## How to run it
 
 Open `second-table-ui-prototype v2.html` in a browser. No server needed.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
